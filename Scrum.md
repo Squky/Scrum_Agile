@@ -1,4 +1,4 @@
-# Scrums
+# Scrum
 
 ## Artefacts
   Key pieces of information that everyone, whos a stakeholder in the project, need to be aware of.
